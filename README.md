@@ -1,5 +1,7 @@
 # Super-klust: Another Way of Piecewise Linear Classification
 
+[![arXiv](images/arXiv_2102.01571.svg)](https://arxiv.org/abs/2102.01571)
+
 This is the reference implementation of the **Super-klust** algorithm. The
 **Super-klust** algorithm is a **Piecewise-Linear (PWL)** classification
 algorithm. It generates a set of test points based on the **Voronoi** region
